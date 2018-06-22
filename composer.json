@@ -1,5 +1,5 @@
 {
-    "name": "ivanmilanov/laravel-cassandra",
+    "name": "IvanMilanov/laravel-cassandra",
     "description": "Change Cassandra Eloquent model and Query builder for Laravel",
     "keywords": ["laravel","eloquent","cassandra","database","model"],
     "homepage": "https://github.com/sonvq-qsoftvn/laravel-cassandra",
