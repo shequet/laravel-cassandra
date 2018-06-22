@@ -1,5 +1,5 @@
 {
-    "name": "sonvq/cassandra",
+    "name": "ivanmilanov/laravel-cassandra",
     "description": "Cassandra Eloquent model and Query builder for Laravel",
     "keywords": ["laravel","eloquent","cassandra","database","model"],
     "homepage": "https://github.com/sonvq-qsoftvn/laravel-cassandra",
@@ -11,10 +11,10 @@
     ],
     "license" : "MIT",
     "require": {
-        "illuminate/support": "5.2.*",
-        "illuminate/container": "5.2.*",
-        "illuminate/database": "5.2.*",
-        "illuminate/events": "5.2.*"
+        "illuminate/support": "5.*",
+        "illuminate/container": "5.*",
+        "illuminate/database": "5.*",
+        "illuminate/events": "5.*"
     },
     "require-dev": {
 
